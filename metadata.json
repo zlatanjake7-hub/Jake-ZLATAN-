@@ -1,0 +1,6 @@
+{
+  "name": "Azam FC Official App",
+  "description": "The official fan application for Azam Football Club (Tanzania) featuring live scores, match center play-by-play updates, player statistics, ticket purchases, interactive merchandise store, reward tiers, and offline capabilities with Gemini-powered updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
